@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-05T14:29:38 IST" name="Default suite" finished-at="2024-04-05T14:30:25 IST" duration-ms="47061">
+  <suite started-at="2024-04-18T13:26:56 IST" name="Default suite" finished-at="2024-04-18T13:27:28 IST" duration-ms="32040">
     <groups>
     </groups>
-    <test started-at="2024-04-05T14:29:38 IST" name="Default test" finished-at="2024-04-05T14:30:25 IST" duration-ms="47061">
-      <class name="Vtiger.Lead">
-        <test-method signature="Leads()[pri:0, instance:Vtiger.Lead@e350b40]" started-at="2024-04-05T14:29:38 IST" name="Leads" finished-at="2024-04-05T14:30:25 IST" duration-ms="46959" status="PASS">
+    <test started-at="2024-04-18T13:26:56 IST" name="Default test" finished-at="2024-04-18T13:27:28 IST" duration-ms="32040">
+      <class name="Vtiger.Product">
+        <test-method signature="probuts()[pri:0, instance:Vtiger.Product@45099dd3]" started-at="2024-04-18T13:26:56 IST" name="probuts" finished-at="2024-04-18T13:27:28 IST" duration-ms="31972" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Leads -->
-      </class> <!-- Vtiger.Lead -->
+        </test-method> <!-- probuts -->
+      </class> <!-- Vtiger.Product -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

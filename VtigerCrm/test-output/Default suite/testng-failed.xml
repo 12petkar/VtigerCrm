@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Vtiger.Lead">
+      <class name="Vtiger.Opportunities">
         <methods>
-          <include name="Leads"/>
+          <include name="Opportunities"/>
         </methods>
-      </class> <!-- Vtiger.Lead -->
+      </class> <!-- Vtiger.Opportunities -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
