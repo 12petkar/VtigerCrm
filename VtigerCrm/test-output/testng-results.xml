@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-20T15:11:13 IST" name="Default suite" finished-at="2024-04-20T15:11:34 IST" duration-ms="21168">
+  <suite started-at="2024-05-26T14:34:57 IST" name="Default suite" finished-at="2024-05-26T14:35:33 IST" duration-ms="36312">
     <groups>
     </groups>
-    <test started-at="2024-04-20T15:11:13 IST" name="Default test" finished-at="2024-04-20T15:11:34 IST" duration-ms="21168">
-      <class name="Vtiger.Base">
-        <test-method signature="text()[pri:0, instance:Vtiger.Base@f09733f]" started-at="2024-04-20T15:11:13 IST" name="text" finished-at="2024-04-20T15:11:34 IST" duration-ms="21110" status="PASS">
+    <test started-at="2024-05-26T14:34:57 IST" name="Default test" finished-at="2024-05-26T14:35:33 IST" duration-ms="36312">
+      <class name="Vtiger.Org">
+        <test-method signature="org()[pri:0, instance:Vtiger.Org@45099dd3]" started-at="2024-05-26T14:34:57 IST" name="org" finished-at="2024-05-26T14:35:33 IST" duration-ms="36242" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- text -->
-      </class> <!-- Vtiger.Base -->
+        </test-method> <!-- org -->
+      </class> <!-- Vtiger.Org -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
